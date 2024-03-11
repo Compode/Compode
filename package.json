@@ -1,0 +1,16 @@
+{
+  "name": "compode_blockend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "hardhat": "^2.21.0",
+    "truffle": "^5.11.5"
+  }
+}
